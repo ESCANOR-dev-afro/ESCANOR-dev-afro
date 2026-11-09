@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Samuel Patrick Imole 👋
-### Full-Stack Web & Cross-Platform Mobile Application Developer | Software Engineer
+### Junior Full-Stack Web & Cross-Platform Mobile Application Developer | Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-samuelpatrickimole.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://samuelpatrickimole.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Patrick_Imole-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-patrick-imole)
