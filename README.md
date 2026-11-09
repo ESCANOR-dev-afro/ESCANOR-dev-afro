@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-I am a 300-level Computer Science undergraduate at **Tai Solarin Federal University of Education (TASUED)** in Ogun State, Nigeria[cite: 3]. As a full-stack software engineer and mobile architect, I specialize in building robust, offline-resilient enterprise platforms, campus e-commerce solutions, and high-performance applications. I currently lead development at **Escanor Tech & Software Solutions** and have engineered production-grade systems utilized by educational institutions and commercial vendors.
+I am a 300-level Computer Science undergraduate at **Tai Solarin Federal University of Education (TASFUED)** in Ogun State, Nigeria[cite: 3]. As a full-stack software engineer and mobile architect, I specialize in building robust, offline-resilient enterprise platforms, campus e-commerce solutions, and high-performance applications. I currently lead development at **Escanor Tech & Software Solutions** and have engineered production-grade systems utilized by educational institutions and commercial vendors.
 
 ---
 
